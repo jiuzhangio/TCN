@@ -1,3 +1,19 @@
 This repository contains the implementation of the methods described in the paper:
 "Algorithm for computing time correlation functions in non-stationary complex dynamic systems" 
 
+
+1. **MultiPointMain.mlx**  
+   This script performs the calculation fo multi-point time correlation functions.
+
+2. **TwoPointMain.mlx**  
+   This script performs the calculation fo tow-point time correlation functions.
+
+3. **index_2010_2024.mat**  
+   This is the data file used by the scripts.
+
+## Prerequisites
+
+To run these files, you will need:
+- MATLAB 
+
+## How to Run the Code
